@@ -25,12 +25,9 @@ Yêu cầu: **Python 3.9 trở lên**.
 cd flashcards
 ```
 
-**Bước 2. Tạo môi trường ảo (khuyến nghị)**
+**Bước 2. Tạo môi trường ảo**
 
 ```bash
-# macOS / Linux
-python3 -m venv .venv
-source .venv/bin/activate
 
 # Windows (PowerShell)
 python -m venv .venv
